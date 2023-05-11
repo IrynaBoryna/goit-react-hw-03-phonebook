@@ -1,0 +1,17 @@
+.itemButton {
+  width: 250x;
+  height: 40px;
+  font-size: 30px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  background-color: rgb(226, 221, 221);
+  cursor: pointer;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  height: 70px;
+  padding: 10px;
+  justify-content: space-between;
+}

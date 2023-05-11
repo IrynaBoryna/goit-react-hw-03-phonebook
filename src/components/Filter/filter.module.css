@@ -1,0 +1,15 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: 10px;
+}
+
+.filterTitle {
+    font-size: 30px;
+    margin: 10px auto 10px 0px;
+}
+.inputField {
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+}
